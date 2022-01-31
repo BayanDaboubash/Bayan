@@ -36,6 +36,8 @@
 ![Mukul's GitHub stats](https://github-readme-stats.vercel.app/api?username=BayanDaboubash&count_private=true&show_icons=true&theme=dark)
 <br />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BayanDaboubash&theme=dark&layout=compact)
+
 [linkedin]: https://www.linkedin.com/in/bayandaboubash/
 [github]: https://github.com/BayanDaboubash
 [email]: mailto:bayan.daboubash2000@gmail.com
