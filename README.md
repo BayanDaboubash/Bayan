@@ -1,5 +1,5 @@
 
-## Hi there, I'm Mukul Sharma 👋
+## Hi there, I'm Bayan Daboubash 👋
 
 - 🔭 I’m currently Full Stack  Developer 
 - 🌱 I’m currently learning more skills that help me develop myself in the field of code
@@ -33,15 +33,8 @@
 
 
 ## Mukul's Github Stats
-![Mukul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukul98s&count_private=true&show_icons=true&theme=dark)
+![Mukul's GitHub stats](https://github-readme-stats.vercel.app/api?username=BayanDaboubash&count_private=true&show_icons=true&theme=dark)
 <br />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukul98s&theme=dark&layout=compact)
-
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mukul98s&theme=radical)](https://git.io/streak-stats) 
-<br /> -->
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mukul98s)](https://github.com/ryo-ma/github-profile-trophy)
 
 [linkedin]: https://www.linkedin.com/in/bayandaboubash/
 [github]: https://github.com/BayanDaboubash
